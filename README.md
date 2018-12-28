@@ -1,13 +1,8 @@
-# dynamo-sqs
 
-SQS AWS 
-  - Lê a fila
- DynamoDb 
-  - Salva de forma assincrona em duas tabelas. 
+Apache Maven 3.5.0 ( ou superior) Java version: 1.8.0_192 ( ou superior) 
 
-
-- Java 8
-- Simple Queue Service
-- DynamoDb Local
+to compile:
+mvn clean install
+mvn spring-boot:run
 
 
